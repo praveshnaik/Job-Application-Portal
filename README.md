@@ -22,3 +22,9 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+## Features
+- Job Listings with hover effects.
+- Detailed Job View with modal.
+- Application Form with validation and success message.
